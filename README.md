@@ -25,5 +25,5 @@ AutoCents is a machine learning-based web application designed to estimate the s
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/subhan75/autocents.git
+   git clone https://github.com/subhan75/AutoCents-.git
    cd autocents
