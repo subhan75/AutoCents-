@@ -19,7 +19,7 @@ def main():
      </div>
     """
     st.markdown(html_temp, unsafe_allow_html=True)
-
+    st.write('')
     st.markdown("##### Planning to sell your car? Let's estimate its price!")
     st.write('')
     st.write('')
