@@ -14,7 +14,8 @@ except Exception as e:
 def main():
     html_temp = """
      <div style="background-color:lightblue;padding:16px">
-     <h2 style="color:black;text-align:center;">AutoCents<br></h2>
+     <h2 style="color:black;text-align:center;">AutoCents</h2>
+     <br> 
      </div>
     """
     st.markdown(html_temp, unsafe_allow_html=True)
